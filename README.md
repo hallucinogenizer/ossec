@@ -19,7 +19,6 @@ Courses can be submitted via Pull Request. Here's how you create a course:
 3. Also create an `index.md` file here that will describe the content for the landing page for your course.
 4. For each lesson, create a sub-directory named like `lesson-1`, `lesson-2`, and so on.
 5. Inside each lesson's directory you can have a metadata.json file describing the lesson's title, and description. You will also have an `index.md` file that describes the content of the lesson.
-6. In the future, you can also group lessons of a course together into sections. For this, inside your main course folder, create sub-directories named like `section1`, `section2`, and so on. Each section will have its own `metadata.json` and `index.md`. It will also contain lessons named like `lesson1`, `lesson2`, etc.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

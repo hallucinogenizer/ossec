@@ -1,0 +1,9 @@
+{
+    "title": "Demo Course",
+    "description": "Laboris nulla deserunt occaecat sunt irure cupidatat est aliquip nostrud.",
+    "icon": "https://icon-library.com/images/course-icon/course-icon-4.jpg",
+    "author": {
+        "name": "Rohan Hussain",
+        "website": "https://www.rohanhussain.com"
+    }
+}
